@@ -1,0 +1,13 @@
+body {
+    background-image: url('./backGround.jpg')
+}
+#entete{
+    color: white;
+    text-align: center;
+    border: 1px solid brown;
+    border-radius: 50%;
+    --bs-bg-opacity: .25;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
